@@ -3,4 +3,4 @@
 #pexels website for images
 #took help from youtube for dark and light mode(generally to know, how it works!)
 #took color ideas from google with help of color picker extension
-#Built this Gallery Task!!!
+#Finally,Built this Gallery Task!!!
